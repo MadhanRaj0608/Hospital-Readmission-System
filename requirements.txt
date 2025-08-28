@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+xgboost
+joblib
+seaborn
+matplotlib
+requests
+shap
+pymongo
+openai
+streamlit-lottie
